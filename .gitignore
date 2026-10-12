@@ -1,4 +1,6 @@
 # Original supplied media (organized copies live in assets/ — originals stay local only)
 WhatsApp *
+# Cloudflare Pages deploy copy (rebuilt from site files, not versioned)
+dist/
 Thumbs.db
 .DS_Store
